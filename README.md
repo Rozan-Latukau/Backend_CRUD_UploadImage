@@ -8,3 +8,6 @@ In the project directory, you can run:
 
 Create CRUD and upload images using React JS, Express JS and Node js
 
+### Explanation :
+The React JS file has been built and placed in the public backend folder, then you can directly run nodemon index.js or node index.js
+
